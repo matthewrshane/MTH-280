@@ -1,0 +1,19 @@
+# these are data file comments.
+# If you are using Python, loading this data file with 
+# np.loadtxt("planetdata.txt") will automatically ignore comments. You may need
+# to modify or delete the comments for other plotting enviornments
+#
+#
+# This data was found on https://solarsystem.nasa.gov/index.cfm 
+#
+# approx. distance to sun (km)     approx. velocity (km/h)
+# ============================     =======================
+57909227 170503 # Mercury
+108209475 126074 # Venus
+149598262 107218 # Earth
+227943824 86677 # Mars
+778340821 47002 # Jupiter
+1426666422 34701 # Saturn
+2870658186 24477 # Uranus
+4498396441 19566 # Neptune
+5906440628 16809 # Pluto <- dwarf planet
