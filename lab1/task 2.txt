@@ -1,0 +1,17 @@
+$ git --version
+git version 2.37.2.windows.2
+
+
+$ git log
+commit a0dc902d9ff6e04db8cd840e628f9bb8049a0a2b (HEAD -> main, origin/main, origin/HEAD)
+Author: Scott Field <sfield@umassd.edu>
+Date:   Fri Dec 30 21:30:00 2022 +0000
+
+    README.md created online with Bitbucket
+
+commit 7c1aebeb07a03791ba578c0361c8652f6f19a63e
+Author: Scott Field <sfield@umassd.edu>
+Date:   Fri Dec 30 21:29:20 2022 +0000
+
+    Initial commit
+
